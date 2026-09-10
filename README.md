@@ -29,21 +29,6 @@ Open `index.html` and locate the `<!-- ✏️ -->` comment markers:
 | `<!-- EDUCATION -->` | Degrees, GPA, coursework |
 | `<!-- CONTACT -->` | Email, GitHub, LinkedIn, Google Scholar |
 
----
-
-## 🚀 Deploy to GitHub Pages
-
-```bash
-git init
-git add .
-git commit -m "Initial site"
-git branch -M main
-git remote add origin https://github.com/Ravishek-Projects/ravishek.github.io.git
-git push -u origin main
-```
-
-Then go to **Settings → Pages → Source: Deploy from branch → `main` / `root`**.  
-The site goes live at `https://ravishek.github.io` within a couple of minutes.
 
 ---
 
