@@ -1,6 +1,6 @@
 ﻿# Ravishek Kumar — Personal Website
 
-Source code for my personal website, live at **[ravishek.github.io](https://ravishek.github.io)**.
+Source code for my personal website, live at **[ravishek.github.io]([https://ravishek.github.io](https://ravishek-projects.github.io/ravishek.github.io/))**.
 
 ---
 
